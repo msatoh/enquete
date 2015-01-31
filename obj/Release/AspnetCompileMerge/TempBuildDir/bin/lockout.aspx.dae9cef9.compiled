@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Lockout.aspx" hash="fffffff11f4ca783" filehash="e5b20f09d46b555" flags="110000" assembly="App_Web_xvdcxoyp" type="ASP.account_lockout_aspx">
+    <filedeps>
+        <filedep name="/Account/Lockout.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

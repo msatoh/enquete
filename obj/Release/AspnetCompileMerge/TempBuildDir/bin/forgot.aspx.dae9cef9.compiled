@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/Forgot.aspx" hash="fffffff11f4ca783" filehash="1108c1de9137187b" flags="110000" assembly="App_Web_xvdcxoyp" type="ASP.account_forgot_aspx">
+    <filedeps>
+        <filedep name="/Account/Forgot.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

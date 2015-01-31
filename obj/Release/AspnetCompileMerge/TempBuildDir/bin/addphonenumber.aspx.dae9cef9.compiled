@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/AddPhoneNumber.aspx" hash="fffffff11f4ca783" filehash="573bd04ba7748fc" flags="110000" assembly="App_Web_xvdcxoyp" type="ASP.account_addphonenumber_aspx">
+    <filedeps>
+        <filedep name="/Account/AddPhoneNumber.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

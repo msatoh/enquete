@@ -1,0 +1,724 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication2
+</name>
+</assembly>
+<members>
+<member name="F:WebApplication2._Default.RadioButtonList1">
+	<summary>
+RadioButtonList1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList2">
+	<summary>
+RadioButtonList2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList3">
+	<summary>
+RadioButtonList3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList4">
+	<summary>
+RadioButtonList4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList5">
+	<summary>
+RadioButtonList5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList6">
+	<summary>
+RadioButtonList6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList7">
+	<summary>
+RadioButtonList7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.炭酸飲料">
+	<summary>
+炭酸飲料 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.フルーツジュース">
+	<summary>
+フルーツジュース コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.お茶">
+	<summary>
+お茶 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.コーヒー">
+	<summary>
+コーヒー コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.乳飲料">
+	<summary>
+乳飲料 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.スポーツドリンク">
+	<summary>
+スポーツドリンク コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.Button1">
+	<summary>
+Button1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.RegisterExternalLogin.email">
+	<summary>
+電子メール コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Confirm.successPanel">
+	<summary>
+successPanel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Confirm.login">
+	<summary>
+login コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Confirm.errorPanel">
+	<summary>
+errorPanel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Manage.SuccessMessagePlaceHolder">
+	<summary>
+ SuccessMessagePlaceHolder コントロール。
+ </summary>
+	<remarks>
+ 自動生成されたフィールド。
+ 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+ </remarks>
+</member><member name="F:WebApplication2.Manage.ChangePassword">
+	<summary>
+ ChangePassword コントロール。
+ </summary>
+	<remarks>
+ 自動生成されたフィールド。
+ 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+ </remarks>
+</member><member name="F:WebApplication2.Manage.CreatePassword">
+	<summary>
+ CreatePassword コントロール。
+ </summary>
+	<remarks>
+ 自動生成されたフィールド。
+ 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+ </remarks>
+</member><member name="F:WebApplication2.Manage.PhoneNumber">
+	<summary>
+ PhoneNumber コントロール。
+ </summary>
+	<remarks>
+ 自動生成されたフィールド。
+ 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+ </remarks>
+</member><member name="F:WebApplication2.ManageLogins.SuccessMessagePlaceholder">
+	<summary>
+SuccessMessagePlaceholder コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.FailureText">
+	<summary>
+FailureText コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.Email">
+	<summary>
+電子メール コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.Password">
+	<summary>
+password コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.RememberMe">
+	<summary>
+RememberMe コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.SiteMaster.MainContent">
+	<summary>
+MainContent コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ResetPasswordConfirmation.login">
+	<summary>
+login コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.VerifyPhoneNumber.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.VerifyPhoneNumber.PhoneNumber">
+	<summary>
+PhoneNumber コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.VerifyPhoneNumber.Code">
+	<summary>
+Code コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Site_Mobile.Head1">
+	<summary>
+Head1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Site_Mobile.HeadContent">
+	<summary>
+HeadContent コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Site_Mobile.form1">
+	<summary>
+form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Site_Mobile.FeaturedContent">
+	<summary>
+FeaturedContent コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Site_Mobile.MainContent">
+	<summary>
+MainContent コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Site_Mobile.ViewSwitcher1">
+	<summary>
+ViewSwitcher1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.form1">
+	<summary>
+form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Label5">
+	<summary>
+Label5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Label1">
+	<summary>
+Label1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Label2">
+	<summary>
+Label2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Label3">
+	<summary>
+Label3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Label4">
+	<summary>
+Label4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Label6">
+	<summary>
+Label6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.Chart1">
+	<summary>
+Chart1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.WebForm1.TextBox1">
+	<summary>
+TextBox1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ResetPassword.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ResetPassword.Email">
+	<summary>
+電子メール コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ResetPassword.Password">
+	<summary>
+password コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ResetPassword.ConfirmPassword">
+	<summary>
+confirmPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.setPassword">
+	<summary>
+setPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.password">
+	<summary>
+password コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.confirmPassword">
+	<summary>
+confirmPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.changePasswordHolder">
+	<summary>
+changePasswordHolder コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.CurrentPasswordLabel">
+	<summary>
+CurrentPasswordLabel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.CurrentPassword">
+	<summary>
+CurrentPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.NewPasswordLabel">
+	<summary>
+NewPasswordLabel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.NewPassword">
+	<summary>
+NewPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.ConfirmNewPasswordLabel">
+	<summary>
+ConfirmNewPasswordLabel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ManagePassword.ConfirmNewPassword">
+	<summary>
+ConfirmNewPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.sendcode">
+	<summary>
+sendcode コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.Providers">
+	<summary>
+Providers コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.ProviderSubmit">
+	<summary>
+ProviderSubmit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.verifycode">
+	<summary>
+verifycode コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.SelectedProvider">
+	<summary>
+SelectedProvider コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.FailureText">
+	<summary>
+FailureText コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.Code">
+	<summary>
+Code コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.RememberBrowser">
+	<summary>
+RememberBrowser コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.TwoFactorAuthenticationSignIn.CodeSubmit">
+	<summary>
+CodeSubmit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.AddPhoneNumber.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.AddPhoneNumber.PhoneNumber">
+	<summary>
+PhoneNumber コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ForgotPassword.loginForm">
+	<summary>
+loginForm コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ForgotPassword.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ForgotPassword.FailureText">
+	<summary>
+FailureText コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ForgotPassword.Email">
+	<summary>
+Email コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.ForgotPassword.DisplayEmail">
+	<summary>
+DisplayEmail コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="P:WebApplication2.My.MyWebExtension.Computer">
+	<summary>
+ ホスト コンピューターに関する情報を返します。
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.User">
+	<summary>
+ 現在の Web ユーザーに関する情報を返します。
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.Request">
+	<summary>
+ Request オブジェクトを返します。
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.Response">
+	<summary>
+ Response オブジェクトを返します。
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.Log">
+	<summary>
+ Asp ログ オブジェクトを返します。
+ </summary>
+</member><member name="T:WebApplication2.My.MyWebExtension">
+	<summary>
+ Web プロジェクトの My Namespace で使用できるプロパティを定義するためのモジュール。
+ </summary>
+	<remarks></remarks>
+</member><member name="F:WebApplication2.OpenAuthProviders.providerDetails">
+	<summary>
+providerDetails コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Register.ErrorMessage">
+	<summary>
+ErrorMessage コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Register.Email">
+	<summary>
+電子メール コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Register.Password">
+	<summary>
+password コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2.Register.ConfirmPassword">
+	<summary>
+confirmPassword コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>

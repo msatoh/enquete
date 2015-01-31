@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Account/TwoFactorAuthenticationSignIn.aspx" hash="fffffff11f4ca783" filehash="eab09bcfb1e8baa2" flags="110000" assembly="App_Web_xvdcxoyp" type="ASP.account_twofactorauthenticationsignin_aspx">
+    <filedeps>
+        <filedep name="/Account/TwoFactorAuthenticationSignIn.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>
