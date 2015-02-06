@@ -6,9 +6,33 @@ WebApplication2
 </name>
 </assembly>
 <members>
-<member name="F:WebApplication2._Default.RadioButtonList1">
+<member name="F:WebApplication2._Default.ValidationSummary1">
+	<summary>
+ValidationSummary1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RadioButtonList1">
 	<summary>
 RadioButtonList1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。
@@ -22,9 +46,25 @@ RadioButtonList2 コントロール。
 自動生成されたフィールド。
 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
 </remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
 </member><member name="F:WebApplication2._Default.RadioButtonList3">
 	<summary>
 RadioButtonList3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。
@@ -38,9 +78,25 @@ RadioButtonList4 コントロール。
 自動生成されたフィールド。
 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
 </remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
 </member><member name="F:WebApplication2._Default.RadioButtonList5">
 	<summary>
 RadioButtonList5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。
@@ -54,6 +110,14 @@ RadioButtonList6 コントロール。
 自動生成されたフィールド。
 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
 </remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator7">
+	<summary>
+RequiredFieldValidator7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
 </member><member name="F:WebApplication2._Default.RadioButtonList7">
 	<summary>
 RadioButtonList7 コントロール。
@@ -62,49 +126,17 @@ RadioButtonList7 コントロール。
 自動生成されたフィールド。
 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
 </remarks>
-</member><member name="F:WebApplication2._Default.炭酸飲料">
+</member><member name="F:WebApplication2._Default.CheckBoxList1">
 	<summary>
-炭酸飲料 コントロール。
+CheckBoxList1 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。
 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
 </remarks>
-</member><member name="F:WebApplication2._Default.フルーツジュース">
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator8">
 	<summary>
-フルーツジュース コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2._Default.お茶">
-	<summary>
-お茶 コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2._Default.コーヒー">
-	<summary>
-コーヒー コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2._Default.乳飲料">
-	<summary>
-乳飲料 コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2._Default.スポーツドリンク">
-	<summary>
-スポーツドリンク コントロール。
+RequiredFieldValidator8 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。
@@ -118,9 +150,25 @@ RadioButtonList8 コントロール。
 自動生成されたフィールド。
 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
 </remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator9">
+	<summary>
+RequiredFieldValidator9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
 </member><member name="F:WebApplication2._Default.RadioButtonList9">
 	<summary>
 RadioButtonList9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:WebApplication2._Default.RequiredFieldValidator10">
+	<summary>
+RequiredFieldValidator10 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。
@@ -401,14 +449,6 @@ Label3 コントロール。
 </member><member name="F:WebApplication2.WebForm1.Label4">
 	<summary>
 Label4 コントロール。
-</summary>
-	<remarks>
-自動生成されたフィールド。
-変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-</remarks>
-</member><member name="F:WebApplication2.WebForm1.Label6">
-	<summary>
-Label6 コントロール。
 </summary>
 	<remarks>
 自動生成されたフィールド。

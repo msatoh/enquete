@@ -54,7 +54,6 @@
         </div>
 
         <br />
-        <asp:Label ID="Label6" runat="server" Font-Names="HGP行書体" Font-Size="X-Large" Text="Label"></asp:Label>
 
         <br />
         <br />
@@ -75,16 +74,20 @@
                     </asp:Chart>
                 </td>
                 <td>
-                    診断の結果…あなたはです！<br />
-                    <asp:TextBox ID="TextBox1" runat="server" Height="78px" Width="418px"></asp:TextBox>
+                    診断の結果…あなたは<script>
+                                  var str = "<img src=" + '<%=ftype%>' + ".png>";
+                                  document.write(str);
+                              </script>
+                    です！<br />
+                    <asp:TextBox ID="TextBox1" runat="server" Height="78px" Width="418px" ReadOnly="True" TextMode="MultiLine"></asp:TextBox>
                     <br />
                    診断結果をツイートする→<script>
                         var p = '<%=p%>',
                             a = '<%=a%>',
                             s = '<%=s%>',
                             h = '<%=h%>',
-                            bp = '<%=bp%>',
-                        result = "性格診断をしました。喜:" + p + ",怒:" + a + ",哀:" + s + ",楽:" + h + ",戦闘力は" + bp + "でした。";
+                            str='<%=ftype%>'
+                        result = "性格診断をしました。喜:" + p + ",怒:" + a + ",哀:" + s + ",楽:" + h + ",性格は" + str + "でした。";
                         document.write("<a href=\"https://twitter.com/share\" class=\"twitter-share-button\" data-url=\"http://msatoh.clear-net.jp/\" data-text=\"" + result + "\" data-lang=\"ja\" data-size=\"large\" data-count=\"none\">ツイート</a>");
                         !function (d, s, id) {
                             var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';

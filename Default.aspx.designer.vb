@@ -14,6 +14,24 @@ Option Explicit On
 Partial Public Class _Default
 
     '''<summary>
+    '''ValidationSummary1 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents ValidationSummary1 As Global.System.Web.UI.WebControls.ValidationSummary
+
+    '''<summary>
+    '''RequiredFieldValidator1 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator1 As Global.System.Web.UI.WebControls.RequiredFieldValidator
+
+    '''<summary>
     '''RadioButtonList1 コントロール。
     '''</summary>
     '''<remarks>
@@ -21,6 +39,15 @@ Partial Public Class _Default
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
     Protected WithEvents RadioButtonList1 As Global.System.Web.UI.WebControls.RadioButtonList
+
+    '''<summary>
+    '''RequiredFieldValidator2 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator2 As Global.System.Web.UI.WebControls.RequiredFieldValidator
 
     '''<summary>
     '''RadioButtonList2 コントロール。
@@ -32,6 +59,15 @@ Partial Public Class _Default
     Protected WithEvents RadioButtonList2 As Global.System.Web.UI.WebControls.RadioButtonList
 
     '''<summary>
+    '''RequiredFieldValidator3 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator3 As Global.System.Web.UI.WebControls.RequiredFieldValidator
+
+    '''<summary>
     '''RadioButtonList3 コントロール。
     '''</summary>
     '''<remarks>
@@ -39,6 +75,15 @@ Partial Public Class _Default
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
     Protected WithEvents RadioButtonList3 As Global.System.Web.UI.WebControls.RadioButtonList
+
+    '''<summary>
+    '''RequiredFieldValidator4 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator4 As Global.System.Web.UI.WebControls.RequiredFieldValidator
 
     '''<summary>
     '''RadioButtonList4 コントロール。
@@ -50,6 +95,15 @@ Partial Public Class _Default
     Protected WithEvents RadioButtonList4 As Global.System.Web.UI.WebControls.RadioButtonList
 
     '''<summary>
+    '''RequiredFieldValidator5 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator5 As Global.System.Web.UI.WebControls.RequiredFieldValidator
+
+    '''<summary>
     '''RadioButtonList5 コントロール。
     '''</summary>
     '''<remarks>
@@ -57,6 +111,15 @@ Partial Public Class _Default
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
     Protected WithEvents RadioButtonList5 As Global.System.Web.UI.WebControls.RadioButtonList
+
+    '''<summary>
+    '''RequiredFieldValidator6 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator6 As Global.System.Web.UI.WebControls.RequiredFieldValidator
 
     '''<summary>
     '''RadioButtonList6 コントロール。
@@ -68,6 +131,15 @@ Partial Public Class _Default
     Protected WithEvents RadioButtonList6 As Global.System.Web.UI.WebControls.RadioButtonList
 
     '''<summary>
+    '''RequiredFieldValidator7 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator7 As Global.System.Web.UI.WebControls.RequiredFieldValidator
+
+    '''<summary>
     '''RadioButtonList7 コントロール。
     '''</summary>
     '''<remarks>
@@ -77,58 +149,22 @@ Partial Public Class _Default
     Protected WithEvents RadioButtonList7 As Global.System.Web.UI.WebControls.RadioButtonList
 
     '''<summary>
-    '''炭酸飲料 コントロール。
+    '''CheckBoxList1 コントロール。
     '''</summary>
     '''<remarks>
     '''自動生成されたフィールド。
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
-    Protected WithEvents 炭酸飲料 As Global.System.Web.UI.WebControls.CheckBox
+    Protected WithEvents CheckBoxList1 As Global.System.Web.UI.WebControls.CheckBoxList
 
     '''<summary>
-    '''フルーツジュース コントロール。
+    '''RequiredFieldValidator8 コントロール。
     '''</summary>
     '''<remarks>
     '''自動生成されたフィールド。
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
-    Protected WithEvents フルーツジュース As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''お茶 コントロール。
-    '''</summary>
-    '''<remarks>
-    '''自動生成されたフィールド。
-    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-    '''</remarks>
-    Protected WithEvents お茶 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''コーヒー コントロール。
-    '''</summary>
-    '''<remarks>
-    '''自動生成されたフィールド。
-    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-    '''</remarks>
-    Protected WithEvents コーヒー As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''乳飲料 コントロール。
-    '''</summary>
-    '''<remarks>
-    '''自動生成されたフィールド。
-    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-    '''</remarks>
-    Protected WithEvents 乳飲料 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''スポーツドリンク コントロール。
-    '''</summary>
-    '''<remarks>
-    '''自動生成されたフィールド。
-    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
-    '''</remarks>
-    Protected WithEvents スポーツドリンク As Global.System.Web.UI.WebControls.CheckBox
+    Protected WithEvents RequiredFieldValidator8 As Global.System.Web.UI.WebControls.RequiredFieldValidator
 
     '''<summary>
     '''RadioButtonList8 コントロール。
@@ -140,6 +176,15 @@ Partial Public Class _Default
     Protected WithEvents RadioButtonList8 As Global.System.Web.UI.WebControls.RadioButtonList
 
     '''<summary>
+    '''RequiredFieldValidator9 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator9 As Global.System.Web.UI.WebControls.RequiredFieldValidator
+
+    '''<summary>
     '''RadioButtonList9 コントロール。
     '''</summary>
     '''<remarks>
@@ -147,6 +192,15 @@ Partial Public Class _Default
     '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
     '''</remarks>
     Protected WithEvents RadioButtonList9 As Global.System.Web.UI.WebControls.RadioButtonList
+
+    '''<summary>
+    '''RequiredFieldValidator10 コントロール。
+    '''</summary>
+    '''<remarks>
+    '''自動生成されたフィールド。
+    '''変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+    '''</remarks>
+    Protected WithEvents RequiredFieldValidator10 As Global.System.Web.UI.WebControls.RequiredFieldValidator
 
     '''<summary>
     '''RadioButtonList10 コントロール。
